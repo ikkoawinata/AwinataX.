@@ -1,0 +1,34 @@
+body {
+  min-height: 7000px;
+  background-color: #ead196;
+}
+
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #171717;
+  /* padding: none; */
+}
+
+.jumbotron .medsos .container {
+  display: inline-flex;
+  justify-content: center;
+}
+
+.jumbotron .medsos .container .row .col .github {
+  display: inline-flex;
+  margin: 0 -0.3rem;
+}
+
+#portfolio-lagi .container .row .col {
+  padding-top: 5rem;
+  margin-bottom: 1.5rem;
+}
+
+#portfolio-foto .container .row .col {
+  padding-top: 8rem;
+  margin-bottom: 1.5rem;
+}
+
+/* #portfolio-foto1 .container{
+  margin-bottom: 1.5rem;
+} */
